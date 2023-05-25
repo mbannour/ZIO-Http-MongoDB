@@ -21,7 +21,7 @@ After that to start the whole project just run :
 
 To run the test:
 
-```sbt run ```
+```sbt test ```
 
 
 
